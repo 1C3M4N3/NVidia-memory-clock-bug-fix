@@ -1,3 +1,4 @@
+CONSOLESTATE /Hide
 timeout /t 10
 pnputil /disable-device "PCI\VEN_10DE&DEV_1F9D&SUBSYS_153A1025&REV_A1\4&27C18CFB&0&0008"
 timeout /t 3
